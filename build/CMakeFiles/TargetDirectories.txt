@@ -1,0 +1,3 @@
+/Users/harsh/Documents/Untitled-Game/build/CMakeFiles/Untitled-Game.dir
+/Users/harsh/Documents/Untitled-Game/build/CMakeFiles/edit_cache.dir
+/Users/harsh/Documents/Untitled-Game/build/CMakeFiles/rebuild_cache.dir

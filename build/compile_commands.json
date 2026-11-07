@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/harsh/Documents/Untitled-Game/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/Untitled-Game.dir/src/main.cpp.o -c /Users/harsh/Documents/Untitled-Game/src/main.cpp",
+  "file": "/Users/harsh/Documents/Untitled-Game/src/main.cpp",
+  "output": "CMakeFiles/Untitled-Game.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/harsh/Documents/Untitled-Game/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/Untitled-Game.dir/src/Game.cpp.o -c /Users/harsh/Documents/Untitled-Game/src/Game.cpp",
+  "file": "/Users/harsh/Documents/Untitled-Game/src/Game.cpp",
+  "output": "CMakeFiles/Untitled-Game.dir/src/Game.cpp.o"
+}
+]
