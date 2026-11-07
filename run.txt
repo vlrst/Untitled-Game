@@ -1,2 +1,4 @@
-cmake -S . -B build && cmake --build build && ./build/Minefall
+cmake -S . -B build && cmake --build build && ./build/
 //cmake -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON // for making sdl3 work with coc
+
+
