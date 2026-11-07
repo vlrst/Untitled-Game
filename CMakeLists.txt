@@ -22,6 +22,8 @@ add_executable(Untitled-Game
 		src/Game.cpp
 		src/Player.cpp
 		include/Player.hpp
+		src/Weapons.cpp
+		include/Weapons.hpp
 )
 
 target_link_libraries(Untitled-Game PRIVATE
