@@ -10,5 +10,17 @@
   "command": "/usr/bin/c++  -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/Untitled-Game.dir/src/Game.cpp.o -c /Users/harsh/Documents/Untitled-Game/src/Game.cpp",
   "file": "/Users/harsh/Documents/Untitled-Game/src/Game.cpp",
   "output": "CMakeFiles/Untitled-Game.dir/src/Game.cpp.o"
+},
+{
+  "directory": "/Users/harsh/Documents/Untitled-Game/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/Untitled-Game.dir/src/Player.cpp.o -c /Users/harsh/Documents/Untitled-Game/src/Player.cpp",
+  "file": "/Users/harsh/Documents/Untitled-Game/src/Player.cpp",
+  "output": "CMakeFiles/Untitled-Game.dir/src/Player.cpp.o"
+},
+{
+  "directory": "/Users/harsh/Documents/Untitled-Game/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/Untitled-Game.dir/src/Weapons.cpp.o -c /Users/harsh/Documents/Untitled-Game/src/Weapons.cpp",
+  "file": "/Users/harsh/Documents/Untitled-Game/src/Weapons.cpp",
+  "output": "CMakeFiles/Untitled-Game.dir/src/Weapons.cpp.o"
 }
 ]
