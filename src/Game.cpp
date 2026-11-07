@@ -7,11 +7,10 @@ using namespace std;
 
 void cleanup(SDL_Window* win);
 
-void grun() {
+void grun(){
 	if (!SDL_Init(SDL_INIT_VIDEO)) {
 		SDL_ShowSimpleMessageBox(SDL_MESSAGEBOX_ERROR, "Error", "Error initializing SDL3", nullptr);
 	}
-
 	SDL_Window* win = SDL_CreateWindow("Game", SCREEN_WIDTH, SCREEN_HEIGHT, 0);
 
 	if (!win) {

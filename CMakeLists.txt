@@ -20,6 +20,8 @@ find_package(SDL3_image REQUIRED)
 add_executable(Untitled-Game
 		src/main.cpp
 		src/Game.cpp
+		src/Player.cpp
+		include/Player.hpp
 )
 
 target_link_libraries(Untitled-Game PRIVATE
